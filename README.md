@@ -1,6 +1,6 @@
 # Network-analysis
+collaborate with Elly
 
-
-UI take user input example and new edges, return statistics and saved ditribution.
+UI taking user input example and new edges, return statistics and saved ditribution.
 
 
